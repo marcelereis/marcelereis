@@ -1,6 +1,6 @@
 <img src='https://i.imgur.com/E8gHNwy.png' />
 
-👋 Olá! sou **Marcele Reis** e desde sempre cultivei interesse sobre como as mensagens são transmitidas e recebidas de maneira eficaz pelo público-alvo. Com experiencia na área de comunicação e design, estou agora me aprofundando em **desenvolvimento web**! Curiosa, criativa e aberta a aprender, estou me aventurando nessa nova àrea, na qual sempre tive afinidade e vontade de explorar.
+👋 Olá! sou **Marcele Reis** e desde sempre cultivei interesse sobre como as mensagens são transmitidas e recebidas de maneira eficaz pelo público-alvo. Com experiência na área de comunicação e design, estou agora me aprofundando em **desenvolvimento web**! Curiosa, criativa e aberta a aprender, estou me aventurando nessa nova àrea, na qual sempre tive afinidade e vontade de explorar.
 
 🖥️ **Tecnologias e ferramentas**:
 
